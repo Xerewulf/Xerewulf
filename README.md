@@ -1,4 +1,4 @@
-<h3 align="center">Backend Developer in Tiga</h3>
+<h3 align="center">Software Engineer in Tiga</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/7562954/file/original-4e1255804fbdc6f4d9f8ca91fe6392b5.gif">
 
 
