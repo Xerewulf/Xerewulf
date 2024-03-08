@@ -6,8 +6,6 @@
 
 - 🔭 I’m currently working with **Spring Boot, PostgresSql, React**
 
-- 🌱 I’m currently learning **Neural Networks, Asp.Net Core**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Xerewulf?tab=repositories](https://github.com/Xerewulf?tab=repositories)
 
 - 📫 How to reach me **1134alier@gmail.com**
