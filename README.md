@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xerewulf&label=Profile%20views&color=0e75b6&style=flat" alt="xerewulf" /> </p>
 
-- 🔭 I’m currently working on **Spring Boot for Backend project**
+- 🔭 I’m currently working with **Spring Boot, PostgresSql, React**
 
 - 🌱 I’m currently learning **Neural Networks, Asp.Net Core**
 
